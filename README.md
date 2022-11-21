@@ -14,6 +14,9 @@ Only if the above rules are strictly obeyed, the OTP is absolutely safe. Adding 
 3. YS-OTP is a novel attempt to implement the Shannon cipher (Yeap, 2022).
 
 References:
+
 Boneh, D. and Shoup, V. 2020. A Graduate Course in Applied Cryptography
+
 Reuvers, P. & Simons, M. 2014. One-Time Pad (OTP): The unbreakable code, Crypto Museum, 14 March 2014.
+
 Yeap, R. 2022. Yeap-Shannon One-Time-Pad Cryptographic Method and System, IP Blockchain, 7B5020CCD10033BF9A3A9B8C0DB294232E1951F7449A3E81DC113F9F00E5C66D, 2022-11-21.
