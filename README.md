@@ -14,7 +14,7 @@ Let ε = (E,D) be a Shannon cipher defined over (K,M,C). Consider a probabilisti
 
      o Both copies of the OTP are destroyed immediately after use. 
 
-Only if the above rules are strictly obeyed, the OTP is absolutely safe. Adding numbers to the plaintext manually, is a time-consuming task. It is therefore sometimes thought that OTPs are no longer considered practical. However, with modern computer technology, the entire task of mixing and unmixing plaintext with the key, can easily be automated." (Reuvers & Simons, 2014)
+     Only if the above rules are strictly obeyed, the OTP is absolutely safe. Adding numbers to the plaintext manually, is a time-consuming task. It is therefore sometimes thought that OTPs are no longer considered practical. However, with modern computer technology, the entire task of mixing and unmixing plaintext with the key, can easily be automated." (Reuvers & Simons, 2014)
 
 3. YS-OTP is a novel attempt to implement the Shannon cipher (Yeap, 2022).
 
